@@ -54,7 +54,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 |---|---|---|---|
 | 01 | Portfolio variance w′Σw | P: `03_…/08_covariance_matrix`, L: `01_vector_and_vector_spaces/010_vectors_matrices_scalars` | ◐ |
 | 02 | Why Σ must be positive semi-definite | L: `05_matrix_decomposition/056_positive_definite_matrices` | ◐ |
-| 03 | Global minimum-variance portfolio with Lagrange multipliers | C: Lagrange multipliers (gap) | ☐ |
+| 03 | Global minimum-variance portfolio with Lagrange multipliers | C: Lagrange multipliers (gap) | ◐ |
 | 04 | Efficient frontier, tangency portfolio, Sharpe ratio | L: `05_matrix_decomposition/051_lu_decomposition` | ☐ |
 | 05 | CAPM and the security market line | modules 03–04 | ☐ |
 
