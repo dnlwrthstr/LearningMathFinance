@@ -56,7 +56,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | 02 | Why Σ must be positive semi-definite | L: `05_matrix_decomposition/056_positive_definite_matrices` | ◐ |
 | 03 | Global minimum-variance portfolio with Lagrange multipliers | C: Lagrange multipliers (gap) | ◐ |
 | 04 | Efficient frontier, tangency portfolio, Sharpe ratio | L: `05_matrix_decomposition/051_lu_decomposition` | ◐ |
-| 05 | CAPM and the security market line | modules 03–04 | ☐ |
+| 05 | CAPM and the security market line | modules 03–04 | ◐ |
 
 ## 05 Risk measures
 
