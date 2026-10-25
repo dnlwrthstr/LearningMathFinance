@@ -44,7 +44,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | # | Notebook | Math link | Status |
 |---|---|---|---|
 | 01 | Variance of a sum and a difference: diversification, tracking error, hedging | P: `02_discribing_distribution/04_sum_of_expectations`, `03_…/06_covariance` | ◐ |
-| 02 | Correlation and what it does not tell you | P: `03_probability_distribution_with_multiple_variables/09_correlation_coefficient` | ☐ |
+| 02 | Correlation and what it does not tell you | P: `03_probability_distribution_with_multiple_variables/09_correlation_coefficient` | ◐ |
 | 03 | Minimum-variance hedge ratio | P: `03_…/06_covariance`, C: `02_derivaties/10_local_extrema` | ☐ |
 | 04 | The two-asset frontier | P: `03_…/06_covariance` | ☐ |
 
