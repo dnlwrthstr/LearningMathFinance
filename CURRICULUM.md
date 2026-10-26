@@ -63,7 +63,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | # | Notebook | Math link | Status |
 |---|---|---|---|
 | 01 | Value at Risk: parametric, historical, Monte Carlo | P: `02_discribing_distribution/12_quantiles`, `01_probability_distribution/10_normal_distribution` | ◐ |
-| 02 | Expected shortfall (CVaR) | P: `02_discribing_distribution/03_expected_value_of_a_function` | ☐ |
+| 02 | Expected shortfall (CVaR) | P: `02_discribing_distribution/03_expected_value_of_a_function`, C: `04_integrals/03_u_substitution` | ◐ |
 | 03 | Drawdowns | none | ☐ |
 | 04 | Risk contributions and Euler allocation | C: partial derivatives (gap) | ☐ |
 
