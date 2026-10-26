@@ -7,7 +7,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 
 - **P:** [LearningProbability](https://github.com/dnlwrthstr/LearningProbability), `coursera/…`
 - **L:** [LearningLinearAlgebra](https://github.com/dnlwrthstr/LearningLinearAlgebra), `hyperskill/…`
-- **C:** [LearningCalculus](https://github.com/dnlwrthstr/LearningCalculus), `hypersklill/…` or `my_learning/…`
+- **C:** [LearningCalculus](https://github.com/dnlwrthstr/LearningCalculus), `hypersklill/…`, `coursera/…` or `my_learning/…`
 - **gap**: no sibling notebook yet; the module teaches the math itself or a course notebook is needed first.
 
 ---
@@ -65,7 +65,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | 01 | Value at Risk: parametric, historical, Monte Carlo | P: `02_discribing_distribution/12_quantiles`, `01_probability_distribution/10_normal_distribution` | ◐ |
 | 02 | Expected shortfall (CVaR) | P: `02_discribing_distribution/03_expected_value_of_a_function`, C: `04_integrals/03_u_substitution` | ◐ |
 | 03 | Drawdowns | P: `01_probability_distribution/08_cumulative_distribution_function`, `04_sampling_and_point_estimation/05_law_of_large_numbers` | ◐ |
-| 04 | Risk contributions and Euler allocation | C: partial derivatives (gap) | ☐ |
+| 04 | Risk contributions and Euler allocation | C: `coursera/02_gradients/01_partial_derivatives_part_1`, `03_gradients` | ◐ |
 
 ## 06 Estimation error
 
