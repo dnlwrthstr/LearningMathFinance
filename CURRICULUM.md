@@ -73,7 +73,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 |---|---|---|---|
 | 01 | How noisy is a mean return? | P: `04_sampling_and_point_estimation/02_sample_mean`, `07_central_limit_theorem_continuous` | ◐ |
 | 02 | Confidence interval for a Sharpe ratio | P: `06_confidence_intervals/` | ◐ |
-| 03 | Is this fund's alpha real? Testing outperformance | P: `07_hypothesis_testing/04_p_values` | ☐ |
+| 03 | Is this fund's alpha real? Testing outperformance | P: `07_hypothesis_testing/04_p_values` | ◐ |
 | 04 | Means are hard, covariances are easier | P: `04_sampling_and_point_estimation/04_sample_variance` | ☐ |
 
 ## 07 Regression and factor models
