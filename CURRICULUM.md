@@ -90,7 +90,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | # | Notebook | Math link | Status |
 |---|---|---|---|
 | 01 | Why mean-variance optimization breaks (error maximization) | module 06 | ◐ |
-| 02 | Covariance shrinkage (Ledoit–Wolf) | P: `05_point_estimation/05_regularization` | ☐ |
+| 02 | Covariance shrinkage (Ledoit–Wolf) | P: `05_point_estimation/05_regularization` | ◐ |
 | 03 | Risk parity | module 05/04 | ☐ |
 | 04 | Black–Litterman as Bayesian updating | P: `05_point_estimation/06_from_mle_to_map`, `00_introduction_to_probability/11_bayes_theorem_formula` | ☐ |
 
