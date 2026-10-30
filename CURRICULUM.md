@@ -110,7 +110,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | 02 | From random walk to Brownian motion | P: `04_sampling_and_point_estimation/07_central_limit_theorem_continuous` | ◐ |
 | 03 | Geometric Brownian motion and lognormal prices | P: `01_probability_distribution/10_normal_distribution` | ◐ |
 | 04 | Itô's lemma, intuitively | gap (stochastic calculus) | ◐ |
-| 05 | Black–Scholes and Monte Carlo pricing | modules 10/01–04 | ☐ |
+| 05 | Black–Scholes and Monte Carlo pricing | modules 10/01–04 | ◐ |
 
 ---
 
