@@ -80,7 +80,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 
 | # | Notebook | Math link | Status |
 |---|---|---|---|
-| 01 | Beta as a regression slope | P: `05_point_estimation/04_mle_linear_regression` | ☐ |
+| 01 | Beta as a regression slope | P: `05_point_estimation/04_mle_linear_regression` | ◐ |
 | 02 | Least squares and the normal equations | L: `05_matrix_decomposition/0510_least squares` | ☐ |
 | 03 | Multi-factor models (Fama–French style) and return attribution | L: `05_matrix_decomposition/059_psedoinverse` | ☐ |
 | 04 | PCA of returns: statistical factors | L: `05_matrix_decomposition/055_spectral_decomposition`, `057_singular_value_decomposition` | ☐ |
