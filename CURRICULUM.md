@@ -100,7 +100,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 |---|---|---|---|
 | 01 | Random walk and autocorrelation | gap (time series) | ◐ |
 | 02 | Volatility clustering, EWMA volatility | gap | ◐ |
-| 03 | GARCH(1,1) by maximum likelihood | P: `05_point_estimation/01_intro_to_maximum_likelihood` | ☐ |
+| 03 | GARCH(1,1) by maximum likelihood | P: `05_point_estimation/01_intro_to_maximum_likelihood` | ◐ |
 
 ## 10 Stochastic processes and pricing
 
