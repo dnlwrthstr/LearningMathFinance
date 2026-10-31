@@ -37,7 +37,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 | 01 | Mean, median, mode of fund returns and AuM | P: `02_discribing_distribution/01_mean_expected_value`, `02_median_and_mode` | ◐ |
 | 02 | Volatility and the units of risk | P: `02_discribing_distribution/05_variance`, `06_standard_deviation` | ◐ |
 | 03 | Skewness, kurtosis, fat tails | P: `02_discribing_distribution/10_skewness`, `11_kurtosis` | ◐ |
-| 04 | Are returns normal? QQ plots and tail checks | P: `02_discribing_distribution/16_qq_plots` | ☐ |
+| 04 | Are returns normal? QQ plots and tail checks | P: `02_discribing_distribution/16_qq_plots` | ◐ |
 
 ## 03 Covariance and two assets
 
