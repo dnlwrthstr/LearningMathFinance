@@ -18,7 +18,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 |---|---|---|---|
 | 01 | Simple vs log returns, aggregation over time and across assets | C: `02_derivaties/05_derivative_of_logarithmic_functions` | ◐ |
 | 02 | Continuous compounding as a limit | C: `01_limits/00_limits_of_sequences`, `02_derivaties/06_derivative_of_exponential_functions` | ◐ |
-| 03 | Time value of money: discounting, annuities, NPV, IRR (root finding) | C: Newton's method (gap) | ☐ |
+| 03 | Time value of money: discounting, annuities, NPV, IRR (root finding) | C: `coursera/05_newtons_method/00_newtons_method` | ◐ |
 | 04 | Annualizing return and volatility (√T rule and when it fails) | P: `02_discribing_distribution/05_variance` | ☐ |
 
 ## 01 Fixed income math
@@ -116,7 +116,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 
 ## Math gaps to fill in the course repos
 
-Newton's method (IRR) · Taylor series · partial derivatives and gradients in finance form ·
+Taylor series · partial derivatives and gradients in finance form ·
 Lagrange multipliers · time series (stationarity, ARMA) · stochastic calculus.
 
 ## Reference curricula this plan is built from
