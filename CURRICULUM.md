@@ -25,7 +25,7 @@ Status: ☐ planned · ◐ in progress · ☑ done.
 
 | # | Notebook | Math link | Status |
 |---|---|---|---|
-| 01 | Bond price as a function of yield | C: `02_derivaties/01_derivatives_of_polynomials` | ☐ |
+| 01 | Bond price as a function of yield | C: `02_derivaties/01_derivatives_of_polynomials` | ◐ |
 | 02 | Duration = first derivative, convexity = second derivative | C: `02_derivaties/09_higher_order_derivatives` | ☐ |
 | 03 | Taylor approximation of price changes | C: Taylor series (gap) | ☐ |
 | 04 | Yield curves and forward rates | C: `04_integrals/00_introduction_to_integrals` | ☐ |
